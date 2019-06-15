@@ -1,0 +1,21 @@
+body {
+  background-color: #862633;
+}
+
+.container {
+  text-align: center;
+  background-color: #862633;
+}
+
+.collapsible-header {
+  background-color: #ecac00;
+  font-weight: bold;
+}
+
+.collapsible-body {
+  color: #ecac00;
+  font-weight: bold;
+}
+
+
+
