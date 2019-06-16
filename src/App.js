@@ -16,7 +16,7 @@ class App extends Component {
       list6: [{point: "Designed and Implemented Administrative Shared Services"}, {point: "Established Change Agent Network"}],
       list7: [{point: "Managed Budget, Forecast, and Requests"}, {point: "Oversaw Expenditure Compliance and Allowability"}, {point: "Enacted Deficit Account Resolution"}],
       list8: [{point: "Designed Financial Operations Websites"}, {point: "Led Function and Testing of Financial and HR Data Systems"}, {point: "Implemented New Travel and Expense Management System"}],
-      list9: [{point: "Developed, Revised, and Enforced University Fiscal Policy and Procedures"}, {point: "Ensured University with Laws and Regulations"}, {point: "Mitigated Risk through Policy and Insurance Review"}],
+      list9: [{point: "Developed, Revised, and Enforced University Fiscal Policy and Procedures"}, {point: "Ensured University Compliance with Laws and Regulations"}, {point: "Mitigated Risk through Policy and Insurance Review"}],
       list10: [{point: "Affordable Liberal Arts Education"}, {point: "Focus on Building a Strong, Diverse and Vibrant University Community"}, {point: "Collegial Administrative Culture"}]
     };
   }
