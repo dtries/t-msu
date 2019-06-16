@@ -30,9 +30,14 @@ class App extends Component {
           Tressa Ries
         </span>  
         } 
-        fixed="true"
-        centerLogo="true">
+        fixed={true}
+        centerLogo={true}
+        { ... 'right'}
+        >
       </Navbar>
+      <div style={{ position: "absolute"}}>
+        <br />
+      </div>
       <div className="container">     
         <Collapsible popout>
             <CollapsibleItem header="Hello" icon="done_outline">

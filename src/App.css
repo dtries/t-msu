@@ -2,6 +2,7 @@ body {
   background-color: #862633;
 }
 
+
 .container {
   text-align: center;
   background-color: #862633;
@@ -15,6 +16,8 @@ body {
   background-color: #ecac00;
   font-weight: bold;
   font-size: 160%;
+  text-shadow: 0 1px 1px #ecac00, 0px 1px 1px black;
+
 }
 
 .collapsible-body {
@@ -36,13 +39,24 @@ body {
 
 span.brand-logo {
   color: #862633;
+  text-shadow: 0 1px 1px #ecac00, 0px 1px 1px black;
   font-weight: bolder;
   font-size: 350%;
 }
 
-table.table_class.hr {
-  border: 1px solid blue;
-  }
+.sidenav {
+  width: 0;
+}
+
+.sidenav-overlay {
+  background-color: transparent;
+}
+
+nav .material-icons{
+  color: #ecac00;
+}
+
+
 
  /* ==== Extra-Small devices ==== */
  @media only screen and (max-width: 600px) {
