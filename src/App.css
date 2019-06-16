@@ -20,7 +20,7 @@ body {
 .collapsible-body {
   color: #ecac00;
   font-weight: bold;
-  font-size: 150%;
+  font-size: 132%;
   text-align: left;
   text-shadow:
   1px 3px 0 #000,
@@ -40,7 +40,21 @@ span.brand-logo {
   font-size: 350%;
 }
 
+table.table_class.hr {
+  border: 1px solid blue;
+  }
 
+ /* ==== Extra-Small devices ==== */
+ @media only screen and (max-width: 600px) {
+  span.brand-logo {
+    font-size: 200%;
+  }
+
+  .collapsible-header {
+    font-size: 100%;
+    text-align: left;
+  }
+}
 
 
 
