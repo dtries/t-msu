@@ -8,13 +8,13 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      list1: [{point: "Ties To North Texas"}, {point: "Family"}],
-      list2: [{point: "Collaborative Approach Preferred, Multidimensional As Apropos"}, {point: "Team Building and Staff Development"}],
+      list1: [{point: "Ties to North Texas"}, {point: "Family"}],
+      list2: [{point: "Collaborative Approach Preferred, Multidimensional as Apropos"}, {point: "Team Building and Staff Development"}],
       list3: [{point: "Generated All Financial Statements and Provided Analysis for External and Internal Reporting"}, {point: "Forecasted Impact of New Accounting Pronouncements"}, {point: "Prepared Financial Information for External Surveys"}],
       list4: [{point: "Managed Payments for Leased Properties for Target Corporation"}, {point: "Acted as Delegated Authority for Contract Approval for State Controller"}, {point: "Verified State Capital Appropriations Complied with State Statutes"}],
       list5: [{point: "Reported Investment Activity to Board of Trustees"}, {point: "Chaired the Defined Contribution Plan Investment Committee"}, {point: "Allocated Spending Authorization and Monitored Compliance"}],
       list6: [{point: "Designed and Implemented Administrative Shared Services"}, {point: "Established Change Agent Network"}],
-      list7: [{point: "Managed Budget, Forecast, and Requests"}, {point: "Oversaw Expenditure Compliance & Allowability"}, {point: "Enacted Deficit Account Resolution"}],
+      list7: [{point: "Managed Budget, Forecast, and Requests"}, {point: "Oversaw Expenditure Compliance and Allowability"}, {point: "Enacted Deficit Account Resolution"}],
       list8: [{point: "Designed Financial Operations Websites"}, {point: "Led Function and Testing of Financial and HR Data Systems"}, {point: "Implemented New Travel and Expense Management System"}],
       list9: [{point: "Developed, Revised, and Enforced University Fiscal Policy and Procedures"}, {point: "Ensured University with Laws and Regulations"}, {point: "Mitigated Risk through Policy and Insurance Review"}],
       list10: [{point: "Affordable Liberal Arts Education"}, {point: "Focus on Building a Strong, Diverse and Vibrant University Community"}, {point: "Collegial Administrative Culture"}]
