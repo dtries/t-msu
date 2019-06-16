@@ -29,7 +29,9 @@ class App extends Component {
         <span className="brand">
           Tressa Ries
         </span>  
-        } centerLogo>
+        } 
+        fixed="true"
+        centerLogo="true">
       </Navbar>
       <div className="container">     
         <Collapsible popout>
