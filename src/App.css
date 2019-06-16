@@ -7,15 +7,40 @@ body {
   background-color: #862633;
 }
 
+.collapsible {
+  margin-top: 5%;
+}
+
 .collapsible-header {
   background-color: #ecac00;
   font-weight: bold;
+  font-size: 160%;
 }
 
 .collapsible-body {
   color: #ecac00;
   font-weight: bold;
+  font-size: 150%;
+  text-align: left;
+  text-shadow:
+  1px 3px 0 #000,
+-1px -1px 0 #000,  
+ 1px -1px 0 #000,
+ -1px 1px 0 #000,
+  1px 1px 0 #000;
 }
+
+.nav-wrapper {
+  background-color: #ecac00;
+}
+
+span.brand-logo {
+  color: #862633;
+  font-weight: bolder;
+  font-size: 350%;
+}
+
+
 
 
 
